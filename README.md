@@ -29,3 +29,6 @@ Here are some ideas to get you started:
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=sakshigupta08.sakshigupta08)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sakshigupta08&show_icons=true&theme=tokyonight)
+
