@@ -15,8 +15,9 @@
 ## ✉️ Find me on:
 
 <p align="center">
- <a href="https://www.linkedin.com/in/sakshi-gupta-8719161a8/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:sakshikalwar01@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.linkedin.com/in/sakshi-gupta-8719161a8/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/sakshigupta08/sakshigupta08/blob/main/Iconns/LinkedIn.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:sakshikalwar01@gmail.com"> <img src="https://github.com/sakshigupta08/sakshigupta08/blob/main/Iconns/email.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.youtube.com/channel/UCxK1jXkTyb3ZfxrnD-TPRZQ"> <img src="https://github.com/sakshigupta08/sakshigupta08/blob/main/Iconns/youtube.png" alt="Python" height="40" style="vertical-align:top; margib:4px"></a>
 </p>
 
 <br />
