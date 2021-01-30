@@ -6,14 +6,11 @@ I am a student pursuing CSE at MNNIT.
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working on ML projects
---
-🌱 I’m currently learning Data Analytics
---
-👯 I’m looking to collaborate on any ML or data science projects
---
-⚡ Fun fact: I love to be an admin.
---
+-🔭 I’m currently working on ML projects
+-🌱 I’m currently learning Data Analytics
+-👯 I’m looking to collaborate on any ML or data science projects
+-⚡ Fun fact: I love to be an admin.
+-->
 ## ✉️ Find me on:
 
 <p align="center">
